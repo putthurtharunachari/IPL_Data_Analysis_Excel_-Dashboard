@@ -40,8 +40,7 @@ The Excel dashboard includes the following analysis:
 
 ## 📸 Dashboard Preview
 
-IPL_DASHBOARD.png
-
+![IPL Dashboard](IPL_DASHBOARD.png)
 ## 📚 Key Learnings
 
 - Working with real-world datasets from Kaggle.
