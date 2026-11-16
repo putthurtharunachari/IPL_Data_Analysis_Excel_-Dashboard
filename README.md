@@ -40,7 +40,7 @@ The Excel dashboard includes the following analysis:
 
 ## 📸 Dashboard Preview
 
-![IPL Data Analysis Dashboard](IPL_Dashboard.png)
+IPL_DASHBOARD.png
 
 ## 📚 Key Learnings
 
